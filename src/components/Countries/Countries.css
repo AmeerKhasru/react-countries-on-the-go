@@ -1,0 +1,5 @@
+.countries{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    gap: 1rem;
+}
